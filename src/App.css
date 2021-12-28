@@ -1,0 +1,12 @@
+.App-wrapper{
+  margin: 0 5%;
+  display: grid;
+  grid-template-rows: 60px 1fr;
+  grid-template-columns: 2fr 10fr;
+  grid-template-areas: 
+  "h h"
+  "n c";
+}
+a{
+  text-decoration: none;
+}

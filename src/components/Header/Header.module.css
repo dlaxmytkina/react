@@ -1,0 +1,11 @@
+.header img{
+    width: 60px;
+  }
+  .header{
+    grid-area: h;
+    background-color: rgb(78, 194, 214);
+  }
+
+  .loadingBlock{
+    float: right;
+  }
